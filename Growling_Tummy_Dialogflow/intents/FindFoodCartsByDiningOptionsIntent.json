@@ -1,0 +1,166 @@
+{
+  "id": "3688ee83-c1f3-4ede-9c7c-a636f1e1682c",
+  "parentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "rootParentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "name": "FindFoodCartsByDiningOptionsIntent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d18e9ea-44d3-4918-a003-cba57dc47e31",
+          "name": "cuisine",
+          "required": true,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of cuisine are you looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "Is there any specific cuisine you are looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "What is your cuisine preference"
+            },
+            {
+              "lang": "en",
+              "value": "What type of cuisine would you like to try?"
+            },
+            {
+              "lang": "en",
+              "value": "Which cuisine are you in the mood for?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you have a specific type of food in mind?"
+            },
+            {
+              "lang": "en",
+              "value": "What kind of food are you craving?"
+            },
+            {
+              "lang": "en",
+              "value": "Which cuisine would you prefer?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9c2cd8a2-147c-4be9-ade3-2279c2f342e3",
+          "name": "diningOption",
+          "required": true,
+          "dataType": "@diningOption",
+          "value": "$diningOption",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you prefer dine-in or takeout option"
+            },
+            {
+              "lang": "en",
+              "value": "Are you looking to eat at the cart or take your food with you?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you want to sit and eat or take your food to go?"
+            },
+            {
+              "lang": "en",
+              "value": "Would you like dine-in or takeout options?"
+            },
+            {
+              "lang": "en",
+              "value": "Are you planning to eat there or take the food with you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "da24182f-d043-44e7-bb0f-33124351d6f3",
+          "name": "dietaryPreference",
+          "required": true,
+          "dataType": "@dietaryPreference",
+          "value": "$dietaryPreference",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you have any dietary preferences like vegetarian or vegan?"
+            },
+            {
+              "lang": "en",
+              "value": "Are you looking for vegetarian or vegan options?"
+            },
+            {
+              "lang": "en",
+              "value": "Any specific dietary requirements I should consider?"
+            },
+            {
+              "lang": "en",
+              "value": "Would you like me to focus on vegetarian or vegan options?"
+            },
+            {
+              "lang": "en",
+              "value": "Should I look for any specific dietary accommodations?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027ll help you find food carts matching your preferences",
+            "Let me search for food carts with those options",
+            "I\u0027ll check which food carts meet your requirements",
+            "I\u0027ll find the perfect food cart for your dining needs.",
+            "Let me look up food carts that match what you\u0027re looking for.",
+            "I\u0027ll search for food carts with your specific requirements.",
+            "I can help you with more details about any of these food carts.",
+            "Would you like to know more about their popular menu items?",
+            "I can also tell you about their hours and ratings.",
+            "Need any additional information about these options?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

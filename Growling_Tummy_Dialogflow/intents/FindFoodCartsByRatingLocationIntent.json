@@ -1,0 +1,117 @@
+{
+  "id": "367e698c-8153-4c77-95f7-1bb4790483ac",
+  "parentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "rootParentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "name": "FindFoodCartsByRatingLocationIntent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b7a18b5b-2788-43e4-a368-fb93bfef5c73",
+          "name": "rating",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$rating",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What minimum rating are you looking for"
+            },
+            {
+              "lang": "en",
+              "value": "How many stars minimum?"
+            },
+            {
+              "lang": "en",
+              "value": "What rating would you like the food carts to have?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s your minimum rating preference?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d8a43951-7adf-445a-b569-d8256ba45c26",
+          "name": "location",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which area are you interested in?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you have any location preference"
+            },
+            {
+              "lang": "en",
+              "value": "Which area would you like to search in?"
+            },
+            {
+              "lang": "en",
+              "value": "Where should I look for food carts?"
+            },
+            {
+              "lang": "en",
+              "value": "Which city should I search?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the food carts $rating and above near $location",
+            "I found these food carts in $location",
+            "Here are the food carts rated $rating and above",
+            "These food carts near $location are rated $rating stars or higher",
+            "I found these food carts in $location",
+            "Here are the food carts near $location",
+            "Check out these food carts in $location",
+            "Here are the food carts rated $rating and above",
+            "I found these highly-rated food carts",
+            "These food carts are rated $rating stars or higher",
+            "Here are some popular food carts",
+            "I found these well-rated food carts"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

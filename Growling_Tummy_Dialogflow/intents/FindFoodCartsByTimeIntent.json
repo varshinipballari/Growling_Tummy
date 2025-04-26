@@ -1,0 +1,110 @@
+{
+  "id": "afbee5b0-135e-4027-8c60-abe5f369b98e",
+  "parentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "rootParentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "name": "FindFoodCartsByTimeIntent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d49b2845-c3d6-43ba-8596-cbef2c211eb4",
+          "name": "cuisine",
+          "required": true,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of cuisine are you looking for"
+            },
+            {
+              "lang": "en",
+              "value": "What type of food do you prefer"
+            },
+            {
+              "lang": "en",
+              "value": "Which cuisine interests you?"
+            },
+            {
+              "lang": "en",
+              "value": "What type of food cart should I search for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "47995134-952a-4868-b558-02842a727186",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time are you looking to get food?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you have any time preference?"
+            },
+            {
+              "lang": "en",
+              "value": "When would you like to eat?"
+            },
+            {
+              "lang": "en",
+              "value": "What time should I check for?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you have a specific time in mind?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I found these $cuisine food carts open at $time",
+            "Here are the $cuisine food carts available at $time",
+            "Great news! These $cuisine food carts are open at $time",
+            "I\u0027ve found several $cuisine options open at $time",
+            "You can find these $cuisine food carts open at $time"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

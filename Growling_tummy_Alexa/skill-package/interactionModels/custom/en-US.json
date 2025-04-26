@@ -1,0 +1,104 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "CuisineType",
+              "type": "CuisineType"
+            },
+            {
+              "name": "Time",
+              "type": "AMAZON.TIME"
+            }
+          ],
+          "name": "FindFoodCartsByTimeIntent",
+          "samples": [
+            "Tell me {CuisineType} food carts open around {Time}",
+            "Are there any food carts open at {Time}",
+            "Where can I get some good {CuisineType} street food",
+            "I\u0027m craving {CuisineType} Any food cart recommendations open at {Time}",
+            "What\u0027s the best {CuisineType} food cart open late at night",
+            "I\u0027m in the mood for {CuisineType} What time do these carts usually open",
+            "List some {CuisineType} food carts open at {Time} with good reviews.",
+            "Find {CuisineType} food carts that are open now.",
+            "When can I find a {CuisineType} food cart that\u0027s still serving",
+            "Find me the earliest opening food cart for breakfast at {Time}",
+            "Show me food carts that are open late at {Time}",
+            "Where can I find twenty four hours food carts starting from {Time}",
+            "I\u0027m looking for {CuisineType} food at {Time} Are there any good carts open then",
+            "Do you have any recommendations for {CuisineType} food carts open during lunchtime",
+            "Can you look for any highly-rated {CuisineType} food carts open in the evening"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "Italian"
+              }
+            },
+            {
+              "name": {
+                "value": "American"
+              }
+            },
+            {
+              "name": {
+                "value": "Chinese"
+              }
+            },
+            {
+              "name": {
+                "value": "Indian"
+              }
+            },
+            {
+              "name": {
+                "value": "Mexican"
+              }
+            }
+          ],
+          "name": "CuisineType"
+        }
+      ],
+      "invocationName": "food cart time"
+    }
+  }
+}

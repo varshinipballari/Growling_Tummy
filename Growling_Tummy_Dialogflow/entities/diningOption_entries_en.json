@@ -1,0 +1,20 @@
+[
+  {
+    "value": "dine-in",
+    "synonyms": [
+      "dine-in"
+    ]
+  },
+  {
+    "value": "to-go",
+    "synonyms": [
+      "to-go"
+    ]
+  },
+  {
+    "value": "takeout",
+    "synonyms": [
+      "takeout"
+    ]
+  }
+]

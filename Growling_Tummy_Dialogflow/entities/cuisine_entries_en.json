@@ -1,0 +1,63 @@
+[
+  {
+    "value": "Mexican",
+    "synonyms": [
+      "Mexican",
+      "Mexican food",
+      "tacos",
+      "burritos"
+    ]
+  },
+  {
+    "value": "Thai",
+    "synonyms": [
+      "Thai",
+      "Thai food",
+      "Thai cuisine"
+    ]
+  },
+  {
+    "value": "Italian",
+    "synonyms": [
+      "Italian",
+      "Pasta",
+      "Pizza",
+      "focaccia"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "Chinese",
+      "Chinese food",
+      "dim sum",
+      "Noodles",
+      "Spring rolls",
+      "Fried rice"
+    ]
+  },
+  {
+    "value": "Indian",
+    "synonyms": [
+      "Indian",
+      "Dosa",
+      "Curry",
+      "Roti",
+      "Naan",
+      "Dal",
+      "Kichadi",
+      "Gulab jamun"
+    ]
+  },
+  {
+    "value": "American",
+    "synonyms": [
+      "American",
+      "Burger",
+      "Steak",
+      "Hot dogs",
+      "Macaroni and cheese",
+      "Fried chicken"
+    ]
+  }
+]

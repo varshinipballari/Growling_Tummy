@@ -1,0 +1,309 @@
+[
+  {
+    "id": "3cdf8b79-4f3e-49be-a891-8cfdc8e209ba",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": false
+      },
+      {
+        "text": " star rated food carts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faa48a66-9aca-498e-bfda-eb07f4464f08",
+    "data": [
+      {
+        "text": "Best food carts in ",
+        "userDefined": false
+      },
+      {
+        "text": "Milwake",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1331d5b5-3051-45a7-8f56-cdb22f600dbe",
+    "data": [
+      {
+        "text": "What are the  ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": false
+      },
+      {
+        "text": " star food carts in ",
+        "userDefined": false
+      },
+      {
+        "text": "my area",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6208fd73-8008-4631-a710-b047fc8b2c5d",
+    "data": [
+      {
+        "text": "Find food carts rated above ",
+        "userDefined": false
+      },
+      {
+        "text": "3.5",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": false
+      },
+      {
+        "text": " near Beverton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2517bc3c-0a00-4a10-aeba-6dc619715bba",
+    "data": [
+      {
+        "text": "Show food carts with at least ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": false
+      },
+      {
+        "text": " stars rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79262305-a78d-4563-a9bd-24794dff00db",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "best rated",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": true
+      },
+      {
+        "text": " food cart near Hillsboro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04f51d01-bc70-426e-9ab8-0a5967b0c227",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "highly rated",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": true
+      },
+      {
+        "text": " food carts in ",
+        "userDefined": false
+      },
+      {
+        "text": "Long Plains",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83525957-5ae8-4621-9c67-bf09d3cf3a69",
+    "data": [
+      {
+        "text": "Which food carts near PSU have ",
+        "userDefined": false
+      },
+      {
+        "text": "good ratings",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a86b86-72e9-4dc2-aadb-013be4981572",
+    "data": [
+      {
+        "text": "Show me  ",
+        "userDefined": false
+      },
+      {
+        "text": "4.5",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": false
+      },
+      {
+        "text": " star food carts ",
+        "userDefined": false
+      },
+      {
+        "text": "downtown",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ead149e-a118-4e0d-9225-9f065775f647",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "top-rated",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": true
+      },
+      {
+        "text": " food carts around ",
+        "userDefined": false
+      },
+      {
+        "text": "Bethany",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d25fe312-04d1-4136-b01b-ca7ae9401d7d",
+    "data": [
+      {
+        "text": "What are the best food carts near ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d373b33b-dd24-450a-9f14-1f58d478fcdf",
+    "data": [
+      {
+        "text": "Find food carts near ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0522919-c488-4b37-83e1-faf44417f72f",
+    "data": [
+      {
+        "text": "Show me food carts rated ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "rating",
+        "userDefined": false
+      },
+      {
+        "text": " stars or higher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

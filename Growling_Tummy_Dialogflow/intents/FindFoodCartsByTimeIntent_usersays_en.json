@@ -1,0 +1,529 @@
+[
+  {
+    "id": "863e0889-37c5-4bd5-b71e-1c1fb0f81ea0",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts open during ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4774860-b2c6-48c1-ac40-6135bac98753",
+    "data": [
+      {
+        "text": "Looking for late ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce1fee43-1304-4068-9ef0-65f20c198471",
+    "data": [
+      {
+        "text": "Find breakfast ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " carts open at ",
+        "userDefined": false
+      },
+      {
+        "text": "7am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcf59487-cefa-4e3e-a2af-688a824c8f56",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " cart open ",
+        "userDefined": false
+      },
+      {
+        "text": "at 3pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4233d57-ed41-4f1d-ab34-061f70c15ac4",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " carts are open for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5573af7-ab90-4e91-85cd-1eca2ddb7ca7",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food carts open ",
+        "userDefined": false
+      },
+      {
+        "text": "at 5pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b878790-5e9c-413a-8ec1-2085c6f7e05c",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "American",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts open early ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5610f214-2fa2-41a2-96c7-c622e4b32d76",
+    "data": [
+      {
+        "text": "Where can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " street food at ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8faa59ce-af54-4e3f-a644-717a2a888047",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " carts open for ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "279c439f-9b78-47e4-bd22-857ea7871f3d",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food carts will be open tomorrow ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adc8b4f9-6edf-441c-84f9-1889c6b57e3e",
+    "data": [
+      {
+        "text": "Is there any open food cart at ",
+        "userDefined": false
+      },
+      {
+        "text": "1am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21f2c202-d635-4312-b5d6-36c3999b0a20",
+    "data": [
+      {
+        "text": "Can you find me a food cart ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98cfb8c0-2c97-41ad-9185-77269af0eafe",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food from any food carts ",
+        "userDefined": false
+      },
+      {
+        "text": "at 6pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e069686-fa59-44dc-b2e1-e41ab489b56e",
+    "data": [
+      {
+        "text": "Are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food carts still serving ",
+        "userDefined": false
+      },
+      {
+        "text": "at midnight",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb186567-ee94-4769-b643-568ee00cb5c6",
+    "data": [
+      {
+        "text": "Tell me where to find ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts open ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5342b3c0-a4cf-4c18-a3d8-184f9719069b",
+    "data": [
+      {
+        "text": "Are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts open ",
+        "userDefined": false
+      },
+      {
+        "text": "at noon",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "258e6132-372f-4f74-acbc-16b998069c5c",
+    "data": [
+      {
+        "text": "Show me open ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14c8dadf-dc42-462c-b18a-4e0fa30c6e64",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food carts are open right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36ce8d5b-2fa2-44ef-9754-76a03e2bcd3c",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food carts open ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "2c226fa5-2857-453c-8e44-21661ed5dd34",
+  "name": "diningOption",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

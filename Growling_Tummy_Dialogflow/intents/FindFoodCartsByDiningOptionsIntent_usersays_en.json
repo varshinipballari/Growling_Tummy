@@ -1,0 +1,419 @@
+[
+  {
+    "id": "77253356-180a-468f-aae0-0346c9a26fff",
+    "data": [
+      {
+        "text": "Find a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food cart with ",
+        "userDefined": false
+      },
+      {
+        "text": "dining",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbdd16f8-8770-4c2e-8050-740af436e93f",
+    "data": [
+      {
+        "text": "Can you search for ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": false
+      },
+      {
+        "text": " food cart in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98333c4e-1ff1-474c-acce-429092e99a52",
+    "data": [
+      {
+        "text": "Is there any food cart which offers ",
+        "userDefined": false
+      },
+      {
+        "text": "dine-in",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ad7c5fb-3786-4415-9261-a617741595dc",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food has ",
+        "userDefined": false
+      },
+      {
+        "text": "To-go",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": false
+      },
+      {
+        "text": " option?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08275196-1325-4c62-9b8d-bbaa940cbe8e",
+    "data": [
+      {
+        "text": "Find a ",
+        "userDefined": false
+      },
+      {
+        "text": "Vegetarian",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": false
+      },
+      {
+        "text": " food cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cee3e31-725a-429c-930c-8e526939dbdb",
+    "data": [
+      {
+        "text": "Can you find me a ",
+        "userDefined": false
+      },
+      {
+        "text": "Vegan",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": false
+      },
+      {
+        "text": " food cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "788de58e-6548-4d68-8a70-b9b0c1851927",
+    "data": [
+      {
+        "text": "Which carts offer ",
+        "userDefined": false
+      },
+      {
+        "text": "dine-in",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": true
+      },
+      {
+        "text": " seating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6cc0b5c-f6f9-4998-aa4a-9a6e09982d75",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "to-go",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": true
+      },
+      {
+        "text": " options for ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf216c76-1688-4616-8bba-7c17a73ce5a8",
+    "data": [
+      {
+        "text": "Show me food carts with ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": true
+      },
+      {
+        "text": " menu items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09685fde-d7bd-4d94-a4c1-7fcde2bc6752",
+    "data": [
+      {
+        "text": "Which food carts have ",
+        "userDefined": false
+      },
+      {
+        "text": "dining",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": true
+      },
+      {
+        "text": " areas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0479a250-544f-4fd2-b710-ea29391e5a82",
+    "data": [
+      {
+        "text": "Find food carts with ",
+        "userDefined": false
+      },
+      {
+        "text": "vegan",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": true
+      },
+      {
+        "text": " options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e35f50c2-343c-441a-bf5f-fc6c94727b23",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican food",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " carts offer ",
+        "userDefined": false
+      },
+      {
+        "text": "takeout",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57d3a4ce-97d8-4b68-9089-959cd06f449c",
+    "data": [
+      {
+        "text": "Are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": true
+      },
+      {
+        "text": " options at ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai food",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " carts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c4767a1-063f-4cce-a006-0b8779c84a23",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "vegan",
+        "meta": "@dietaryPreference",
+        "alias": "dietaryPreference",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food carts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea9eb8e9-4011-4467-a713-9d333a3fec4b",
+    "data": [
+      {
+        "text": "Which food carts have ",
+        "userDefined": false
+      },
+      {
+        "text": "dine-in",
+        "meta": "@diningOption",
+        "alias": "diningOption",
+        "userDefined": true
+      },
+      {
+        "text": " options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

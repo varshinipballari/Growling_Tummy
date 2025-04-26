@@ -1,0 +1,9 @@
+{
+  "id": "1c363c63-6aeb-4249-bfa2-417a4a3e5165",
+  "name": "dietaryPreference",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
